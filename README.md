@@ -3,4 +3,5 @@ Grupo:
   Daniel Gomes,
   Lauro Pereira,
   Gabriel Vinícius,
-  Marcus Queiros
+  Marcus Queiros,
+  João Souza
